@@ -50,8 +50,8 @@ I am currently building and improving full-stack web applications using modern t
 ## 📫 How to reach me
 
 - **Email:** samah_chahine@outlook.com
-- **LinkedIn:** www.linkedin.com/in/samah-chahine-4a4435252
-- **Portfolio:** (https://s-chahine.github.io/)
+- [My LinkedIn](https://www.linkedin.com/in/samah-chahine-4a4435252)
+- [My Portfolio](https://s-chahine.github.io/)
 
 ---
 
